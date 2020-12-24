@@ -1,0 +1,2 @@
+# MrChuJiu.EntityFrameworkIntercept
+提供EntityFrameworkCore,拦截实体变更记录
